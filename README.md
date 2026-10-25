@@ -101,6 +101,6 @@ Estou aberto a oportunidades de aprendizado, networking e crescimento profission
 
 <div align="center">
 
-**Aprendendo na prática. Evoluindo a cada projeto. Construindo meu caminho na tecnologia.** 🚀
+**Aprendendo na prática. Evoluindo a cada projeto. Construindo meu caminho na tecnologia.** 
 
 </div>
